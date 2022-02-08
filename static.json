@@ -1,7 +1,8 @@
 {
 "headers":{
   "/*":{
-    "X-Author": "kaallinna"
+    "X-Author": "kaallinna",
+    "Control-Allow-Origin":"*"
 }
 }
 
